@@ -1,2 +1,9 @@
 <1.0>
 - Initial release
+<1.01>
+- [NEW THINGS]
+- 
+- Added more configuration to make it easier for all the frameworks to work with the script.
+- Made the QBCORE version substantially better.
+- 
+- Affected frameworks: ESX, QBCORE
