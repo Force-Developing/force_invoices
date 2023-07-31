@@ -1,5 +1,3 @@
-<1.0>
-- Initial Release
 <1.01>
 - [NEW THINGS]
 - 
@@ -7,3 +5,5 @@
 - Made the QBCORE version substantially better.
 - 
 - Affected frameworks: ESX, QBCORE
+<1.0>
+- Initial Release
